@@ -1,0 +1,104 @@
+{
+	"size_x": 64,
+	"size_y": 64,
+	"size2_x": 128,
+	"size2_y": 128,
+	"images": [
+		{
+			"name": "selection-mod-autoplay",
+			"text": "au",
+			"background": "41, 128, 185",
+			"foreground": "52, 152, 219"
+		},
+		{
+			"name": "selection-mod-cinema",
+			"text": "cnm",
+			"background": "44, 62, 80",
+			"foreground": "52, 73, 94"
+		},
+		{
+			"name": "selection-mod-doubletime",
+			"text": "dt",
+			"background": "142, 68, 173",
+			"foreground": "155, 89, 182"
+		},
+		{
+			"name": "selection-mod-easy",
+			"text": "ez",
+			"background": "41, 128, 185",
+			"foreground": "52, 152, 219"
+		},
+		{
+			"name": "selection-mod-flashlight",
+			"text": "fl",
+			"background": "44, 62, 80",
+			"foreground": "52, 73, 94"
+		},
+		{
+			"name": "selection-mod-halftime",
+			"text": "ht",
+			"background": "41, 128, 185",
+			"foreground": "52, 152, 219"
+		},
+		{
+			"name": "selection-mod-hardrock",
+			"text": "hr",
+			"background": "192, 57, 43",
+			"foreground": "231, 76, 60"
+		},
+		{
+			"name": "selection-mod-hidden",
+			"text": "hd",
+			"background": "243, 156, 18",
+			"foreground": "241, 196, 15"
+		},
+		{
+			"name": "selection-mod-nightcore",
+			"text": "nc",
+			"background": "142, 68, 173",
+			"foreground": "155, 89, 182"
+		},
+		{
+			"name": "selection-mod-nofail",
+			"text": "nf",
+			"background": "41, 128, 185",
+			"foreground": "52, 152, 219"
+		},
+		{
+			"name": "selection-mod-perfect",
+			"text": "pf",
+			"background": "211, 84, 0",
+			"foreground": "230, 126, 34"
+		},
+		{
+			"name": "selection-mod-random",
+			"text": "rnd",
+			"background": "39, 174, 96",
+			"foreground": "46, 204, 113"
+		},
+		{
+			"name": "selection-mod-relax",
+			"text": "rlx",
+			"background": "41, 128, 185",
+			"foreground": "52, 152, 219"
+		},
+		{
+			"name": "selection-mod-spunout",
+			"text": "spn",
+			"background": "41, 128, 185",
+			"foreground": "52, 152, 219"
+		},
+		{
+			"name": "selection-mod-suddendeath",
+			"text": "sd",
+			"background": "211, 84, 0",
+			"foreground": "230, 126, 34"
+		},
+		{
+			"name": "selection-mod-target",
+			"text": "tp",
+			"background": "142, 68, 173",
+			"foreground": "155, 89, 182"
+		}
+	]
+}
