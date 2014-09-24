@@ -9,6 +9,11 @@
 			"text": "au",
 			"background": "41, 128, 185",
 			"foreground": "52, 152, 219"
+		},		{
+			"name": "selection-mod-autopilot",
+			"text": "au",
+			"background": "41, 128, 185",
+			"foreground": "52, 152, 219"
 		},
 		{
 			"name": "selection-mod-cinema",
